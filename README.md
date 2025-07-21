@@ -1,5 +1,5 @@
 
-  <img src="allshahria.gif" alt="" width="800px" align="center">
+  <img src="allshahria.gif" alt="" width="1000px" align="center">
 
 
 <div align="justify">

@@ -1,4 +1,7 @@
-<img src="hi_there_i_am_shahria.gif" alt="">
+<div style="text-align: center;">
+  <img src="allshahria.gif" alt="">
+</div>
+
 <div align="justify">
 
 <a href="https://https://www.linkedin.com/in/md-al-shahria-7505b6243/">

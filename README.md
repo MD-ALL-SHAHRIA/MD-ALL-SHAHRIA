@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 About Me<br>Hi, I'm Md All Shahria, a passionate Computer Science student at AIUB, aspiring to become a skilled Software Engineer blending academic research with real-world software development.<br><br>🎓 Currently:<br><br>Pursuing B.Sc. in Computer Science & Engineering at AIUB<br><br>Actively contributing to AI/ML research with 3 Q1 publications<br><br>Building full-stack web applications and experimenting with new technologies<br><br>🧠 Core Skills<br><br>Machine Learning & AI: Research, modeling, and analysis<br><br>Web Development: HTML, CSS, JavaScript, React, Node.js<br><br>Tools: Git, GitHub, MongoDB, Firebase, REST APIs<br><br>🚀 Future Goals<br><br>Become a world-class Software Engineer<br><br>Work in impactful projects combining AI + Software Engineering<br><br>Continue publishing research and contributing to open-source<br><br>🔗 Let’s Connect<br>Open to internships, collaborations, or tech talks!<br>Feel free to reach out or check out my repositories 👇
+### 👋 About Me
+
+I'm **Md All Shahria**, a passionate 💻 **CSE student at AIUB**, future 🚀 **Software Engineer**, and 🧠 **ML Researcher** with **3 Q1 publications**.
+
+🔬 I specialize in Machine Learning & Deep Learning,  
+🛠️ Build full-stack apps using **React**, **Node.js**, **MongoDB**,  
+⚡ And love turning ideas into real-world tech solutions.
+
+Always learning. Always building. Let’s create something awesome!
+
 
 
 # 💻 Tech Stack:

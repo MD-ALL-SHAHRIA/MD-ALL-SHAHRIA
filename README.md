@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm shahria" title="👋 Hi there! I'm shahria"/>
-<div align="justify">
+
 
 
 <a href="https://https://www.linkedin.com/in/md-al-shahria-7505b6243/">

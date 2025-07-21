@@ -1,4 +1,4 @@
-<img src="hi_there_i_am_shahria.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+
 <div align="justify">
 
 <a href="https://https://www.linkedin.com/in/md-al-shahria-7505b6243/">

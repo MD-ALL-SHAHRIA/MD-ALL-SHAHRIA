@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img src="allshahria.gif" alt="">
-</div>
+
+  <img src="allshahria.gif" alt="" align="center">
+
 
 <div align="justify">
 

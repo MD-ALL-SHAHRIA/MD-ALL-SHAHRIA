@@ -1,5 +1,5 @@
-
-
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<div align="justify">
 
 <a href="https://https://www.linkedin.com/in/md-al-shahria-7505b6243/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">

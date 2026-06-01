@@ -11,7 +11,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Md All Shahria and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. Also, i am published 2 Q1 papers and 2 research papers  
+Welcome to my GitHub page. I am Md All Shahria, a Computer Engineering student and Software Engineer at Hoplone Infosec. I am passionate about learning new technologies in programming and sharing my knowledge by teaching others. I have been programming for over 3 years and have worked with multiple languages and modern technologies. I have also published 2 Q1 journal papers along with 2 additional research papers. 
 
 </p>
 
